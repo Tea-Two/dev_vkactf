@@ -1,6 +1,3 @@
-### dev_vkactf
-template for development vkactf
-
 # Разработка
 
  - [ ] Расписана идея в проекты в качестве проблемы (issue)
