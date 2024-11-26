@@ -1,3 +1,0 @@
-### VKACTF task
-
-VKACTF task
